@@ -1,0 +1,19 @@
+SVG stands for Scalable Vector Graphics
+SVG is used to define vector-based graphics for the Web
+SVG defines the graphics in XML format
+Every element and every attribute in SVG files can be animated
+SVG is a W3C recommendation
+SVG integrates with other W3C standards such as the DOM and XSL
+
+Advantages of using SVG over other image formats (like JPEG and GIF) are:
+
+SVG images can be created and edited with any text editor
+SVG images can be searched, indexed, scripted, and compressed
+SVG images are scalable
+SVG images can be printed with high quality at any resolution
+SVG images are zoomable
+SVG graphics do NOT lose any quality if they are zoomed or resized
+SVG is an open standard
+SVG files are pure XML
+
+generating SVG at https://inkscape.org 
